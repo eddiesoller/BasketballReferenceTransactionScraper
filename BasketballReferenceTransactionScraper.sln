@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballReferenceTransactionScraper", "BasketballReferenceTransactionScraper\BasketballReferenceTransactionScraper.csproj", "{BA5F7DC7-3CE9-49D5-A0D6-D45558A840C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5F7DC7-3CE9-49D5-A0D6-D45558A840C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5F7DC7-3CE9-49D5-A0D6-D45558A840C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5F7DC7-3CE9-49D5-A0D6-D45558A840C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5F7DC7-3CE9-49D5-A0D6-D45558A840C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0AC3B9-320D-4DF5-B964-1B15DDAFC077}
+	EndGlobalSection
+EndGlobal
